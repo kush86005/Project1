@@ -1,4 +1,4 @@
-## Graph-based route planner built in Java & DSA.
+## 🗺️ Graph-based route planner built in Java & DSA.
 
 ![Route Planner](screenshots/route.png)
 
